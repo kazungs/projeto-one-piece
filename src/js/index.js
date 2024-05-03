@@ -1,13 +1,3 @@
-/* Objetivo 1
-    passo 1 - Pegar todos os botões do projeto
-    passo 2 - monstrar o que o usuario clicou no objeto
-    passo 3 - adicionar a classe selecionado e remover se tiver um existente
-
-    Objetiuvo 2
-        passo 1 - pegar todos os personagens do projeto
-        passo 2 - monstrar o personagem que o usuario clicou no botão
-        passo 3 - o mesmo que o passo 3 do objetivo 1
-*/
 const botoes = document.querySelectorAll(".botao");
 const personagens = document.querySelectorAll(".personagem")
 
